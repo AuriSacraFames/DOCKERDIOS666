@@ -1,0 +1,4 @@
+# Este fichero nos permite ignorar los componentes mencionados abajo, en este caso por motivos de peso
+node_modules
+.dockerignore
+Dockerfile
